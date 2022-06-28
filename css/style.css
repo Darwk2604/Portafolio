@@ -120,6 +120,7 @@ hr {
 /* About */
 .presentation {
     display: flex;
+    background: #fff;
     border-top: 1px var(--color-primary) solid;
     border-bottom: 1px var(--color-primary) solid;
     margin: 80px auto;
@@ -180,7 +181,7 @@ hr {
     position: absolute;
     top: -35px;
     left: 20px;
-    background: var(--color-tertiary);
+    background: #fff;
     border: 1px var(--color-primary) solid;
     width: max-content;
     padding: 10px;
@@ -235,7 +236,7 @@ hr {
     position: absolute;
     top: -35px;
     right: 30px;
-    background: var(--color-tertiary);
+    background: #fff;
     border: 1px var(--color-primary) solid;
     width: max-content;
     padding: 10px;
