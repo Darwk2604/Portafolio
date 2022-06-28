@@ -10,6 +10,7 @@
 
 body {
     font-family: 'Comic Neue', cursive;
+    background: var(--color-tertiary);
 }
 
 hr {
