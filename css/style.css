@@ -392,6 +392,7 @@ hr {
     }
     .nav_items{
         font-weight: 400;
+        font-size: 0.7rem;
         border-bottom: 1px solid var(--color-tertiary);
     }
     .nav_items-footer{
