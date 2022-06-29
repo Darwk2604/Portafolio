@@ -430,6 +430,24 @@ hr {
     .about.container{
         padding: 40px 0;
     }
+
+    /*projects*/
+    .projects{
+        width: 100%;
+    }
+
+    .projects_grid{
+        grid-template-areas: 
+        "img1 img1"
+        "img2 img2"
+        "img3 img3"
+        "img4 img4"
+        ;
+    }
+    .projects_item{
+        border-left: none;
+        border-right: none;
+    }
     /*footer*/
     .footer{
         height: 150px;
