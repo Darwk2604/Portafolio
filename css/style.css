@@ -612,6 +612,12 @@ body {
 }
 
 @media screen and (max-width: 600px) {
+    .hero{
+        height: 60vh;
+    }
+    .hero_container{
+        height: calc(60vh - 70px);
+    }
     .subtitle{
         font-size: 0.8rem;
     }
