@@ -444,6 +444,7 @@ body {
 }
 
 /*Responsive Desing*/
+
 @media screen and (max-width: 800px) {
     :root {
         --boton-padding: 20px 40px;
@@ -607,6 +608,39 @@ body {
     .footer_grid {
         grid-template-columns: 1fr;
         height: 100px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .subtitle{
+        font-size: 0.8rem;
+    }
+
+    .about_container-skills {
+        padding-top: 0;
+        margin-left: 10%;
+    }
+
+    .about_subtitle {
+        padding: 25px 20px;
+
+    }
+
+    .about_paragraph-work{
+        padding: 30px 7px;
+    }
+
+    .globo.i {
+        right: 20px;
+        padding: 25px 20px;
+    }
+
+    .projects_subtitle {
+        padding: 25px 20px;
+    }
+
+    .projects{
+        height: 1200px;
     }
 }
 
