@@ -642,6 +642,15 @@ body {
     .projects{
         height: 1200px;
     }
+
+    .form-mobile-1 {
+        left: 10%;
+        width: 90%;
+    }
+
+    .form-mobile-2 {
+        right: 10%;
+    }
 }
 
 /*
