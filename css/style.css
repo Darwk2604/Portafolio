@@ -612,6 +612,10 @@ body {
         align-items: center;
     }
 
+    .form-mobile-3 .projects_hover{
+        height: 100%;
+    }
+
     /*footer*/
     .footer {
         height: 150px;
@@ -676,6 +680,10 @@ body {
 
     .form-mobile-3 {
         top: -95px;
+    }
+
+    .form-mobile-3 .projects_hover{
+        height: 100%;
     }
 
     .copyright{
