@@ -330,6 +330,10 @@ body {
     grid-area: img4;
 }
 
+.form-mobile-3 .projects_hover{
+    height: 18%;
+}
+
 .projects_hover-one {
     position: absolute;
     background: #1355898c;
