@@ -164,6 +164,7 @@ body {
 
 .about_container-skills {
     width: 80%;
+    height: 100%;
     margin-left: 60px;
     position: relative;
     display: grid;
@@ -507,8 +508,8 @@ body {
     .about_container-skills{
         display: flex;
         flex-direction: column;
-        height: 350px;
         padding-top: 50px;
+        padding-bottom: 20px;
     }
 
     .about_pictures {
@@ -624,6 +625,7 @@ body {
 
     .about_container-skills {
         padding-top: 0;
+        padding-bottom: 20px;
         margin-left: 10%;
     }
 
