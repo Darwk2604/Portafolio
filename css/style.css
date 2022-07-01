@@ -655,18 +655,25 @@ body {
     }
 
     .projects{
-        height: 1200px;
+        height: 1100px;
     }
 
     .form-mobile-1 {
         left: 10%;
         width: 90%;
+        top: -35px;
     }
 
     .form-mobile-2 {
         right: 0%;
         width: 90%;
+        top: -65px;
     }
+
+    .form-mobile-3 {
+        top: -95px;
+    }
+
     .copyright{
         font-size: 0.7rem;
     }
