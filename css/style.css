@@ -469,6 +469,13 @@ body {
         border: none;
     }
 
+    .hero{
+        height: 60vh;
+    }
+    .hero_container{
+        height: calc(60vh - 70px);
+    }
+
     .hero_texts {
         width: 100%;
         margin-bottom: 80px;
