@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@300;400;700&display=swap');
 
 :root {
-    --background-image: linear-gradient(to bottom, #135589, #487da5, #7ba7c0, #c2d6df, #edfafd);
+    --background-image: linear-gradient(180deg, rgba(19,85,137,1) 18%, rgba(237,250,253,1) 89%);;
     --color-primary: #135589;
     --color-secondary: #aed9da;
     --color-tertiary: #edfafd;
